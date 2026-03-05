@@ -38,6 +38,9 @@ The Orders table references both Books and Customers using foreign keys.
 * Identify most popular books
 * Calculate remaining stock
 * Identify customers with multiple orders
+* List customers who have placed at least 2 orders
+* Find the most frequently ordered book
+* Show the top 3 most expensive books of 'Fantasy' Genre 
 
 ## Tools Used
 
